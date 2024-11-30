@@ -5,6 +5,130 @@
 	(uuid "38b0a34b-2047-47f6-90d7-ccdf77e8e212")
 	(paper "A4")
 	(lib_symbols)
+	(text "ESP32-S3FH4R2"
+		(exclude_from_sim no)
+		(at 50.292 66.802 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "551c03fd-c3c1-4ea7-a9cd-8c01d1844db7")
+	)
+	(sheet
+		(at 148.59 86.36)
+		(size 27.94 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "08de4c32-29d6-480e-9b72-c141cc8253af")
+		(property "Sheetname" "LargeMotor"
+			(at 148.59 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "large-motor.kicad_sch"
+			(at 148.59 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "combat-control"
+				(path "/38b0a34b-2047-47f6-90d7-ccdf77e8e212"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 124.46)
+		(size 30.48 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5bc2eb48-ba05-4947-b6cc-1fab53bcabc8")
+		(property "Sheetname" "SmallMotor2"
+			(at 80.01 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "small-motor.kicad_sch"
+			(at 80.01 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "combat-control"
+				(path "/38b0a34b-2047-47f6-90d7-ccdf77e8e212"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 80.01 92.71)
+		(size 30.48 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b49af01b-ed96-4d9d-b321-2a9fe8fbe5c1")
+		(property "Sheetname" "SmallMotor1"
+			(at 80.01 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "small-motor.kicad_sch"
+			(at 80.01 108.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "combat-control"
+				(path "/38b0a34b-2047-47f6-90d7-ccdf77e8e212"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

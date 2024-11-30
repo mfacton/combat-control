@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "02d1d8dd-ea99-4d8a-a9cb-2b7e06fd68f7")
+	(paper "A5")
+	(lib_symbols)
+	(text "TPHR8504PL,LQ(M1W"
+		(exclude_from_sim no)
+		(at 84.328 62.484 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5805f012-1425-4eff-8652-90a8e8256b93")
+	)
+)

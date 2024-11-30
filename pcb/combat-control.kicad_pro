@@ -460,7 +460,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "rigid4.kicad_pro",
+    "filename": "combat-control.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -741,7 +741,55 @@
   "sheets": [
     [
       "38b0a34b-2047-47f6-90d7-ccdf77e8e212",
-      ""
+      "Root"
+    ],
+    [
+      "31e52373-a2dc-44cb-afdb-9746210f2a01",
+      "SmallBridgeA"
+    ],
+    [
+      "b49af01b-ed96-4d9d-b321-2a9fe8fbe5c1",
+      "SmallMotor1"
+    ],
+    [
+      "709ed439-9978-4afc-9147-e13d8afcf818",
+      "SmallBridgeB"
+    ],
+    [
+      "66a4c838-8a31-4317-99d2-f1f75432548b",
+      "SmallBridgeC"
+    ],
+    [
+      "5bc2eb48-ba05-4947-b6cc-1fab53bcabc8",
+      "SmallMotor2"
+    ],
+    [
+      "709ed439-9978-4afc-9147-e13d8afcf818",
+      "SmallBridgeB"
+    ],
+    [
+      "31e52373-a2dc-44cb-afdb-9746210f2a01",
+      "SmallBridgeA"
+    ],
+    [
+      "66a4c838-8a31-4317-99d2-f1f75432548b",
+      "SmallBridgeC"
+    ],
+    [
+      "08de4c32-29d6-480e-9b72-c141cc8253af",
+      "LargeMotor"
+    ],
+    [
+      "e2dc77f2-1da3-4558-9548-0368b6f1c39f",
+      "LargeBridgeA"
+    ],
+    [
+      "668c8d01-b467-464b-9003-ec184f7a9864",
+      "LargeBridgeB"
+    ],
+    [
+      "2f7c5b9e-ee99-494a-9414-efd2a17c9077",
+      "LargeBridgeC"
     ]
   ],
   "text_variables": {}
