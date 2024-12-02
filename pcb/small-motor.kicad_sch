@@ -2778,7 +2778,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "4078346f-ffd8-40ab-8457-0b1d57d19b8c")
-		(property "Reference" "J4"
+		(property "Reference" "J5"
 			(at 156.972 55.88 0)
 			(effects
 				(font
@@ -3460,7 +3460,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "a3b6cb6b-c7d3-4a79-bfc4-e897d24c7d15")
-		(property "Reference" "J7"
+		(property "Reference" "J8"
 			(at 156.972 76.2 0)
 			(effects
 				(font

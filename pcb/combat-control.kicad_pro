@@ -633,7 +633,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "combat-control.step",
       "svg": "",
       "vrml": ""
     },
